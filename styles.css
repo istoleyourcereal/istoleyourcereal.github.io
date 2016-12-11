@@ -4,7 +4,10 @@
 
 h1, h2, h3 {
   font-family: 'Montserrat', sans-serif;
-  color: #3C250A;
+  color: #ffffff;
+}
+h1 {
+  letter-spacing: 24px;
 }
 
 p, li {
@@ -29,7 +32,7 @@ body {
 }
 
 header, footer {
-  background-color: #595959;
+  background-color: none;
   text-align: center;
   padding: 15px 30px;
 

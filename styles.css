@@ -4,7 +4,7 @@
 
 h1, h2, h3 {
   font-family: 'Montserrat', sans-serif;
-  color: #ffffff;
+  color: #000000;
 }
 h1 {
   letter-spacing: 24px;
@@ -12,7 +12,7 @@ h1 {
 
 p, li {
   font-family: 'Slabo 27px', serif;
-  color: #7B756C;
+  color: #4F575A;
 }
 
 
@@ -46,7 +46,7 @@ header img {
 .main-content {
   background-color: none;
   padding: 10px 0;
-  border-top: 2px solid #CFD11A;
+  border-top: 2px solid #4F575A;
 }
 
 .main-content ul {
@@ -63,7 +63,7 @@ header img {
 }
 
 a {
-  color: #CFD11A; /*yellow */
+  color: #000000; /*yellow */
   text-decoration: none;
   font-family: 'Montserrat', sans-serif;
 }

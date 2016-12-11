@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+.result, .error {
+  display: none;
+}
+img {
+	display: inline-block;
+	float: left;
+}
+ul, li {
+	list-style: none;
+	margin-left: 140px;
+	font-family: 'Nunito', sans-serif;
+}

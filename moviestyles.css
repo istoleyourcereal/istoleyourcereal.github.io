@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Catamaran:600');
 
-.result, .error {
-  display: none;
-}
 img {
 	display: inline-block;
 	float: left;
@@ -11,4 +9,21 @@ ul, li {
 	list-style: none;
 	margin-left: 140px;
 	font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+	font-family: 'Catamaran', sans-serif;
+}
+
+.li
+
+.result {
+	display: block;
+    border-top: 1px;
+    border-top-style: solid;
+    margin-top: 40px;
+ }
+
+.result, .error {
+  display: none;
 }
